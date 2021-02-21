@@ -3,7 +3,7 @@ name: Prakhar Gupta
 bio: Looking for freelance work. Rates - 60$/hr
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Portfolio
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: assets/Resume_Complete.pdf
 
 url: https://prakhar897.github.io/
-# your url: https://USERNAME.github.io
+your url: https://prakhar897.github.io
 
 permalink: /:title/
 
@@ -29,22 +29,22 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://linkedin.com/in/prakhar897
+linkedin: prakhar897
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/prakhar897
+github: prakhar897
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 7293918/p-gupta
 # quora: userquora
 # reddit: username
 # medium: medium
@@ -69,7 +69,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
