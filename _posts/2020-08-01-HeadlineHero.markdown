@@ -6,8 +6,8 @@ tag:
 - Node.js
 - MongoDB
 - GitHub
-image: assets/images/HeadlineHero.png
-headerImage: true
+image: /assets/images/HeadlineHero.png
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "HeadlineHero"
@@ -16,7 +16,7 @@ author: prakhargupta
 externalLink: false
 ---
 
-![Screenshot](assets/images/HeadlineHero.png)
+![Screenshot](/assets/images/HeadlineHero.png)
 
 App for bloggers to generate headlines. Did all things for the app including Market Research, Logo Design, Copywriting, Front and Back End Development, Marketing etc.
 

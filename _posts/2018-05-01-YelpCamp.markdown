@@ -7,7 +7,7 @@ tag:
 - MongoDB
 - Express
 - Heroku
-image: assets/images/YelpCamp.png
+image: /assets/images/YelpCamp.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -17,7 +17,7 @@ author: prakhargupta
 externalLink: false
 ---
 
-![Screenshot](assets/images/YelpCamp.png)
+![Screenshot](/assets/images/YelpCamp.png)
 
 Developed full stack CRUD web application where users can comment and leave reviews about campgrounds. Features include user profile, authentication, error handling, authorization, REST routes and admin privileges.
 

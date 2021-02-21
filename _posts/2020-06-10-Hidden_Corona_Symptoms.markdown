@@ -23,13 +23,13 @@ This same methodology can be applied to Google Trends to check when symptom rela
 
 The query data for the last five years for India and USA has been used in this study.
 
-![**USA Results**](assets/images/Hidden_Corona_Symptoms_1.png)***USA Results***
+![**USA Results**](/assets/images/Hidden_Corona_Symptoms_1.png)***USA Results***
 
 As you can see, all the symptoms-related queries spike around March 2020. This also coincides with the spike in cases in US.
 
 Next, let’s look at India’s data.
 
-![**India Results**](assets/images/Hidden_Corona_Symptoms_2.png)***India Results***
+![**India Results**](/assets/images/Hidden_Corona_Symptoms_2.png)***India Results***
 
 We can see is that in India, the results aren’t down yet. Hence, the first wave hasn’t ended.
 
@@ -39,7 +39,7 @@ Now, this data in itself isn’t great. We already know what symptoms of covid a
 
 For instance look at this graph which depicts the amount of searches for “back pain” done in US and India.
 
-![**Back Pain searches in India(left) vs US (right)**](assets/images/Hidden_Corona_Symptoms_3.jpeg)***Back Pain searches in India(left) vs US (right)***
+![**Back Pain searches in India(left) vs US (right)**](/assets/images/Hidden_Corona_Symptoms_3.jpeg)***Back Pain searches in India(left) vs US (right)***
 
 In India, this search lie well above the normal amount. But in US, there’s no increase in this search. Does this mean symptoms of corona changes with location? I don’t know. Maybe we’ll know in the coming months.
 
