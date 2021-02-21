@@ -1,0 +1,24 @@
+---
+title: ":ramen: YelpCamp"
+layout: post
+date: 2018-05-01 22:10
+tag:
+- Node.js
+- MongoDB
+- Express
+- Heroku
+image: assets/images/YelpCamp.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "YelpCamp"
+category: project
+author: prakhargupta
+externalLink: false
+---
+
+![Screenshot](assets/images/YelpCamp.png)
+
+Developed full stack CRUD web application where users can comment and leave reviews about campgrounds. Features include user profile, authentication, error handling, authorization, REST routes and admin privileges.
+
+Project Link - http://yelpcamp12345.herokuapp.com/
