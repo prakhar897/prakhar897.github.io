@@ -19,7 +19,7 @@ resume-url: assets/Resume_Complete.pdf
 url: https://prakhar897.github.io/
 your url: https://prakhar897.github.io
 
-permalink: /
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
