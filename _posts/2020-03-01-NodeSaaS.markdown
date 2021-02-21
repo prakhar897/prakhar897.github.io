@@ -1,0 +1,35 @@
+---
+title: "NodeSaaS"
+layout: post
+date: 2020-03-01 22:10
+tag: jekyll
+image: assets/images/NodeSaaS.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "NodeSaaS"
+category: project
+author: prakhargupta
+externalLink: false
+---
+
+![Screenshot](assets/images/NodeSaaS.png)
+
+Inspired By alecrocute'sflaskSaas. I've noticed SaaS bootstraps/boilerplates being sold upwards of $1,000 per year and I think that's fucking ridiculous. This project will be my attempt to make a great starting point for your next big business as easy and efficent as possible.
+
+Project Link - http://saas-starter123.herokuapp.com/
+
+
+---
+
+What has inside?
+
+- Node.js
+- Stripe
+- JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
+---
+
+[Check it out](https://sergiokopplin.github.io/indigo/) here.
+If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).

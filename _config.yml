@@ -19,7 +19,7 @@ resume-url: assets/Resume_Complete.pdf
 url: https://prakhar897.github.io/
 your url: https://prakhar897.github.io
 
-permalink: /:title/
+permalink: /
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -53,12 +53,12 @@ stackoverflow: 7293918/p-gupta
 email: prakhar897@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  prakhargupta:
+    name: Prakhar Gupta
+    bio: Tech Guy
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: prakhar897
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
