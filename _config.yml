@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/Resume_Complete.pdf
 
-url: https://prakhar897.github.io
+url: https://prakhar897.github.io/home/
 #your url: https://prakhar897.github.io
 
 permalink: /:title/
@@ -93,7 +93,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+#related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
