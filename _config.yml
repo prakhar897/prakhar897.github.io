@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/Resume_Complete.pdf
 
-url: https://prakhar897.github.io/
+url: https://prakhar897.github.io
 #your url: https://prakhar897.github.io
 
 permalink: /:title/
