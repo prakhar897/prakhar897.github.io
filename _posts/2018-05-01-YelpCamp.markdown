@@ -19,6 +19,59 @@ externalLink: false
 
 ![Screenshot](/assets/images/YelpCamp.png)
 
-Developed full stack CRUD web application where users can comment and leave reviews about campgrounds. Features include user profile, authentication, error handling, authorization, REST routes and admin privileges.
-
 Project Link - http://yelpcamp12345.herokuapp.com/
+Github Link - https://github.com/prakhar897/Yelp-Camp
+
+# YelpCamp
+
+> A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
+
+## Features
+
+* Authentication:
+  
+  * User login with username and password
+
+
+* Authorization:
+
+  * One cannot manage posts and view user profile without being authenticated
+
+  * One cannot edit or delete posts and comments created by other users
+
+
+* Manage campground posts with basic functionalities:
+
+  * Create, edit and delete posts and comments
+
+  * Upload campground photos
+
+
+* Flash messages responding to users' interaction with the app
+
+* Responsive web design
+
+### Custom Enhancements
+
+* Update campground photos when editing campgrounds
+
+### Front-end
+
+* [ejs](http://ejs.co/)
+* [Bootstrap](https://getbootstrap.com/docs/3.3/)
+
+### Back-end
+
+* [express](https://expressjs.com/)
+* [mongoDB](https://www.mongodb.com/)
+* [mongoose](http://mongoosejs.com/)
+* [async](http://caolan.github.io/async/)
+* [passport](http://www.passportjs.org/)
+* [passport-local](https://github.com/jaredhanson/passport-local#passport-local)
+* [express-session](https://github.com/expressjs/session#express-session)
+* [method-override](https://github.com/expressjs/method-override#method-override)
+* [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
+
+### Platforms
+
+* [Heroku](https://www.heroku.com/)

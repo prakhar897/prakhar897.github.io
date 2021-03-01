@@ -1,8 +1,9 @@
 ---
-title: ":ramen: HeadlineHero"
+title: ":newspaper: HeadlineHero"
 layout: post
 date: 2020-08-01 22:10
 tag:
+- Full Stack
 - Node.js
 - MongoDB
 - GitHub
@@ -18,6 +19,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/HeadlineHero.png)
 
-App for bloggers to generate headlines. Did all things for the app including Market Research, Logo Design, Copywriting, Front and Back End Development, Marketing etc.
+Project Link - headlineheroapp.herokuapp.com
+Github Link - https://github.com/prakhar897/HeadLineHero
 
-Source: <a href="https://github.com/prakhar897/HeadLineHero"><i class="large github icon"></i>Headline Hero</a>
+App for bloggers to generate headlines based on keywords. Did all things for the app including Market Research, Logo Design, Copywriting, Front and Back End Development, Marketing etc.
