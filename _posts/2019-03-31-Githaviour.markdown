@@ -19,7 +19,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/Githaviour1.png)
 
-Project Link - https://githavior.heroku.com
+Project Link - https://githavior.heroku.com  
 Github Link - https://github.com/Ideas-Labs/githavior
 
 ## The problem GitHavior solves
@@ -37,6 +37,11 @@ GitHub's API provides limited support when it comes to accessing a user's activi
 Another challenge for us was integrating the frontend with our data processing pipeline at the backend. Since we don't have much experience with FE technologies, it was challenging for us to implement UIs and charts that visualized our data. We were able to create separate plots but we were not able to combine all of them into a single webpage.
 
 ## Screenshots Of the project
+
+![](https://prakhar897.github.io/assets/images/Githaviour1.png) | ![](https://prakhar897.github.io/assets/images/Githaviour2.png)
+
+![](https://prakhar897.github.io/assets/images/Githaviour3.png) | ![](https://prakhar897.github.io/assets/images/Githaviour4.png)
+
 
 ![Screenshot](/assets/images/Githaviour1.png)
 ![Screenshot](/assets/images/Githaviour2.png)

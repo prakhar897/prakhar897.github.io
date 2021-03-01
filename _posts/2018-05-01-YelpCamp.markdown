@@ -1,5 +1,5 @@
 ---
-title: ":ramen: YelpCamp"
+title: ":basecamp: YelpCamp"
 layout: post
 date: 2018-05-01 22:10
 tag:
@@ -19,7 +19,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/YelpCamp.png)
 
-Project Link - http://yelpcamp12345.herokuapp.com/
+Project Link - http://yelpcamp12345.herokuapp.com/  
 Github Link - https://github.com/prakhar897/Yelp-Camp
 
 # YelpCamp

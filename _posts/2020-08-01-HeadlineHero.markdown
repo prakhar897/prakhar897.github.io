@@ -19,7 +19,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/HeadlineHero.png)
 
-Project Link - headlineheroapp.herokuapp.com
+Project Link - headlineheroapp.herokuapp.com  
 Github Link - https://github.com/prakhar897/HeadLineHero
 
 App for bloggers to generate headlines based on keywords. Did all things for the app including Market Research, Logo Design, Copywriting, Front and Back End Development, Marketing etc.

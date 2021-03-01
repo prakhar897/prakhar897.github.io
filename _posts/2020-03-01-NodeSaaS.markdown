@@ -19,14 +19,14 @@ externalLink: false
 
 ![Screenshot](/assets/images/NodeSaaS.png)
 
-Project Link - http://saas-starter123.herokuapp.com/
+Project Link - http://saas-starter123.herokuapp.com/  
 Github Link - https://github.com/prakhar897/nodeSaas
 
 # NodeSaas
 
 ![License](http://img.shields.io/:license-mit-blue.svg)
 
-Inspired By [alecrocute's](https://github.com/alectrocute)[flaskSaas](https://github.com/alectrocute/flaskSaaS). I've noticed SaaS bootstraps/boilerplates being sold upwards of $1,000 per year and I think that's fucking ridiculous. This project will be my attempt to make a great starting point for your next big business as easy and efficent as possible.
+Inspired By [alecrocute's](https://github.com/alectrocute) [flaskSaas](https://github.com/alectrocute/flaskSaaS). I've noticed SaaS bootstraps/boilerplates being sold upwards of $1,000 per year and I think that's fucking ridiculous. This project will be my attempt to make a great starting point for your next big business as easy and efficent as possible.
 
 ## Features
 
