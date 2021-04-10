@@ -17,6 +17,7 @@ layout: page
 	<li> Fundamentals: OOPs,Data Structures and Algorithms,Operating System,Data Science</li>
 	<li> Misc: Apache JMeter, Apache Kafka, Git/Github</li>
 	<li> CSS Frameworks: Bootstrap, Semantic UI</li>
+	<li> Blockchain: Solidity, Truffle, Ganache</li>
 </ul>
 
 <h2> Interest </h2>
